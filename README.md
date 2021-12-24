@@ -13,7 +13,10 @@ ____
 
 *will be soon*
 ____
-### stack:
+### Development Information
+
+The connection to the Telegram API is made using Long polling technology.
+
 Repository: embedded database BoltDB
 
 # FerrisWheel (RUS)
