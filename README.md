@@ -15,7 +15,7 @@ ____
 ____
 ### Development Information
 
-The connection to the Telegram API is made using Long polling technology.
+The connection to the Telegram API is made using Long polling method.
 
 Repository: embedded database BoltDB
 
