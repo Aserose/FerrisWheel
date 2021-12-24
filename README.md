@@ -1,6 +1,6 @@
 # FerrisWheel (ENG)
 
-**«FerrisWheel»** is a telegram bot. The main function of the bot is collection of images indexed by date and geo-data from electronic sources - if it's publicly available, of course. 
+**«FerrisWheel»** is a telegram bot. The main function of the bot is collection of images indexed by publication date and geo-data (address name or coordinates) from social networks - if it's publicly available, of course. 
 The address can be specified in any common language of the world. And besides that, there is an option to search by time: either until a certain date, or some interval.
 The search is currently only includes the vk social network.
 
