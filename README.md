@@ -21,4 +21,4 @@ Repository: embedded database BoltDB
 
 # FerrisWheel (RUS)
 
-Описание в разработке. 
+Описание в процессе составления
